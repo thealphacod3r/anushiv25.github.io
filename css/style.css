@@ -383,6 +383,7 @@ body {
 
 .navbar-brand,
 .navbar-brand:hover {
+    margin-left: 10px;
     color: #fff;
 }
 
